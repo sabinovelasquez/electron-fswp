@@ -1,0 +1,19 @@
+{
+  "name": "fullscreen-wordpress-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.8",
+    "electron-packager": "^12.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
